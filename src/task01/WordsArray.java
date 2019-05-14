@@ -36,11 +36,6 @@ public class WordsArray {
 
         System.out.println("Уникальные слова: " + wordsSet);
         System.out.println("Повтор слов: " + wordsHM.toString().replace("="," - "));
-
-
-
-
-
     }
 
 
