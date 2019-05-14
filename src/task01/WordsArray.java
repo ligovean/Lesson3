@@ -5,7 +5,7 @@ import java.util.*;
 public class WordsArray {
     public static void main(String[] args) {
 
-        ArrayList<String> wordsList = new ArrayList();
+        List<String> wordsList = new ArrayList();
         wordsList.add("Эквилибристика");
         wordsList.add("Дуриан");
         wordsList.add("Эквилибристика");
